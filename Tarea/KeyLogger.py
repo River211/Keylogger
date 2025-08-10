@@ -1,6 +1,3 @@
-# keylogger.py - Versión corregida con envío HTTP confiable
-# Para fines educativos en entorno de máquina virtual
-
 import socket
 import platform
 import win32clipboard
