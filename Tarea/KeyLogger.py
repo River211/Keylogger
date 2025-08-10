@@ -56,7 +56,7 @@ file_merge = file_path + extend
 key_file = file_merge + "encryption_key.txt"
 
 # Configuración del servidor
-server_url = "http://192.168.228.86:5000"
+server_url = ""
 
 # Función para obtener información del sistema
 def computer_information():
